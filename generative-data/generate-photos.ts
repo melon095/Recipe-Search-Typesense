@@ -14,6 +14,7 @@ const Txt2ImgResponse = z.object({
 const __dirname = getDirname(import.meta);
 const webuiServerUrl = process.env.WEBUI_SERVER_URL || "http://localhost:3000";
 const diffusionModel = "sd_xl_base_1.0";
+const highresUpscaler = process.env.WEBUI_HIGHRES_UPSCALER || "R-ESRGAN 4x+";
 
 const outDir = path.resolve(__dirname, "./photos");
 
@@ -33,12 +34,16 @@ const recipes = await readJsonFileZod(
 
 const generativeInstructions = {
 	seed: -1,
-	steps: 50,
+	steps: 25,
 	cfg_scale: 8,
 	width: 1024,
 	height: 1024,
 	send_images: true,
 	save_images: false,
+	enable_hr: true,
+	hr_scale: 1.5,
+	hr_upscaler: highresUpscaler,
+	denoising_strength: 0.6,
 	model: diffusionModel,
 	prompt: await readLocalFile("./DIFFUSION-POSITIVE.txt"),
 	negative_prompt: await readLocalFile("./DIFFUSION-NEGATIVE.txt"),
@@ -64,7 +69,7 @@ for (const recipe of recipes) {
 
 	console.log(`Generating photo for recipe ${recipe.Name}`);
 
-	const json = generativeInstructions;
+	const json = { ...generativeInstructions };
 	json.prompt = `${recipe.SDXLPrompt}, ${json.prompt}`;
 
 	const response = http.post("sdapi/v1/txt2img", {
