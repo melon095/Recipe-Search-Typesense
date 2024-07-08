@@ -1,0 +1,42 @@
+{
+    "name": "recipe-search",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "seed:database": "pnpm run tsx scripts/seed-database.ts",
+        "seed:typesense": "pnpm run tsx scripts/seed-typesense.ts",
+        "load-env": "dotenv -e .env.local",
+        "tsx": "pnpm run load-env -- tsx",
+        "dlx": "pnpm run load-env -- pnpm dlx"
+    },
+    "dependencies": {
+        "@prisma/client": "5.16.1",
+        "dotenv-cli": "^7.4.2",
+        "got": "^14.4.1",
+        "minio": "^8.0.1",
+        "next": "14.2.4",
+        "react": "^18",
+        "react-dom": "^18",
+        "tsx": "^4.16.0",
+        "typesense": "^1.8.2",
+        "zod": "^3.23.8",
+        "zod-form-data": "^2.0.2"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^8.4.1",
+        "@types/node": "^20",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "eslint": "^8",
+        "eslint-config-next": "14.2.4",
+        "postcss": "^8",
+        "prisma": "^5.16.1",
+        "tailwindcss": "^3.4.1",
+        "typescript": "^5"
+    }
+}

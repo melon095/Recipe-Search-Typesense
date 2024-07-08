@@ -1,0 +1,3420 @@
+[
+    {
+        "Name": "Spicy Mango Chicken",
+        "Description": "A zesty and sweet chicken dish with a tropical twist.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Chicken breasts"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Mango chunks"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Chili powder"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Marinate the chicken with chili powder, garlic, salt, and pepper.",
+            "Heat olive oil in a pan and cook the chicken until golden brown.",
+            "Add mango chunks and simmer until the chicken is fully cooked.",
+            "Serve hot with a side of rice."
+        ],
+        "Tags": [
+            "dinner",
+            "chicken",
+            "spicy"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "A zesty and sweet chicken dish with mango chunks, served hot."
+    },
+    {
+        "Name": "Lemon Garlic Shrimp Pasta",
+        "Description": "A refreshing pasta dish with succulent shrimp and a lemony garlic sauce.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "grams",
+                "Name": "Pasta"
+            },
+            {
+                "Amount": "300",
+                "Unit": "grams",
+                "Name": "Shrimp"
+            },
+            {
+                "Amount": "3",
+                "Unit": "cloves",
+                "Name": "Garlic"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Lemon juice"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Cook the pasta according to package instructions.",
+            "Sauté garlic in olive oil until fragrant.",
+            "Add shrimp and cook until pink.",
+            "Mix in lemon juice, salt, and pepper.",
+            "Toss the pasta with the shrimp and garlic sauce.",
+            "Serve with a sprinkle of fresh parsley."
+        ],
+        "Tags": [
+            "dinner",
+            "pasta",
+            "seafood"
+        ],
+        "TimeEstimate": 25,
+        "SDXLPrompt": "A plate of pasta with shrimp, garlic, and a lemony sauce, garnished with parsley."
+    },
+    {
+        "Name": "Vegetable Stir Fry",
+        "Description": "A quick and healthy vegetable stir fry with a savory soy sauce.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Broccoli florets"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Bell peppers"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Carrots"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Soy sauce"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Sesame oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Ginger"
+            },
+            {
+                "Amount": "1",
+                "Unit": "clove",
+                "Name": "Garlic"
+            }
+        ],
+        "Instructions": [
+            "Heat sesame oil in a large pan or wok.",
+            "Add garlic and ginger, sauté until fragrant.",
+            "Add broccoli, bell peppers, and carrots.",
+            "Stir fry vegetables until tender-crisp.",
+            "Add soy sauce and stir to coat evenly.",
+            "Serve hot over steamed rice."
+        ],
+        "Tags": [
+            "dinner",
+            "vegetarian",
+            "healthy"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A colorful vegetable stir fry with broccoli, bell peppers, and carrots, served over rice."
+    },
+    {
+        "Name": "Creamy Mushroom Soup",
+        "Description": "A rich and creamy mushroom soup perfect for a cozy evening.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "grams",
+                "Name": "Mushrooms"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Heavy cream"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Vegetable broth"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Onion"
+            },
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Garlic clove"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Sauté onions and garlic in butter until soft.",
+            "Add sliced mushrooms and cook until tender.",
+            "Pour in vegetable broth and bring to a boil.",
+            "Reduce heat and add heavy cream.",
+            "Simmer for 10 minutes, then blend until smooth.",
+            "Season with salt and pepper to taste."
+        ],
+        "Tags": [
+            "dinner",
+            "soup",
+            "vegetarian"
+        ],
+        "TimeEstimate": 40,
+        "SDXLPrompt": "A bowl of creamy mushroom soup, garnished with a sprinkle of herbs."
+    },
+    {
+        "Name": "Blueberry Pancakes",
+        "Description": "Fluffy pancakes filled with fresh blueberries, perfect for breakfast.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Flour"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Egg"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Sugar"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Baking powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Blueberries"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            }
+        ],
+        "Instructions": [
+            "Mix flour, sugar, baking powder, and salt in a bowl.",
+            "In another bowl, whisk milk and egg together.",
+            "Combine wet and dry ingredients until smooth.",
+            "Fold in blueberries.",
+            "Heat butter in a skillet over medium heat.",
+            "Pour batter into the skillet and cook until bubbles form.",
+            "Flip and cook until golden brown.",
+            "Serve with syrup and extra blueberries."
+        ],
+        "Tags": [
+            "breakfast",
+            "pancakes",
+            "sweet"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A stack of fluffy blueberry pancakes, drizzled with syrup and topped with fresh blueberries."
+    },
+    {
+        "Name": "Beef Tacos",
+        "Description": "Delicious beef tacos with a variety of fresh toppings.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "grams",
+                "Name": "Ground beef"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Salsa"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Shredded lettuce"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Diced tomatoes"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Grated cheese"
+            },
+            {
+                "Amount": "8",
+                "Unit": "",
+                "Name": "Taco shells"
+            },
+            {
+                "Amount": "1",
+                "Unit": "packet",
+                "Name": "Taco seasoning"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            }
+        ],
+        "Instructions": [
+            "Cook ground beef in a skillet until browned.",
+            "Add taco seasoning and a pinch of salt.",
+            "Warm taco shells in the oven.",
+            "Fill taco shells with beef, salsa, lettuce, tomatoes, and cheese.",
+            "Serve immediately."
+        ],
+        "Tags": [
+            "dinner",
+            "beef",
+            "mexican"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A plate of beef tacos with various fresh toppings, ready to be served."
+    },
+    {
+        "Name": "Garlic Butter Salmon",
+        "Description": "Tender salmon fillets with a rich garlic butter sauce.",
+        "Ingredients": [
+            {
+                "Amount": "4",
+                "Unit": "",
+                "Name": "Salmon fillets"
+            },
+            {
+                "Amount": "3",
+                "Unit": "cloves",
+                "Name": "Garlic"
+            },
+            {
+                "Amount": "4",
+                "Unit": "tablespoons",
+                "Name": "Butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Lemon juice"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 180°C.",
+            "Place salmon fillets on a baking sheet.",
+            "Melt butter in a pan and sauté garlic until fragrant.",
+            "Pour garlic butter over the salmon.",
+            "Sprinkle with lemon juice, salt, and pepper.",
+            "Bake for 15-20 minutes until salmon is cooked through.",
+            "Serve hot with a side of vegetables."
+        ],
+        "Tags": [
+            "dinner",
+            "fish",
+            "healthy"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Tender salmon fillets topped with garlic butter, baked to perfection."
+    },
+    {
+        "Name": "Chocolate Chip Cookies",
+        "Description": "Classic chocolate chip cookies that are crispy on the edges and chewy in the middle.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Sugar"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Brown sugar"
+            },
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Eggs"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cups",
+                "Name": "Flour"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Baking soda"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Vanilla extract"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Chocolate chips"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 180°C.",
+            "Cream together butter and sugars until smooth.",
+            "Beat in eggs one at a time, then stir in vanilla.",
+            "Combine flour and baking soda, then add to the wet mixture.",
+            "Fold in chocolate chips.",
+            "Drop by spoonfuls onto a baking sheet.",
+            "Bake for 10-12 minutes until edges are golden.",
+            "Cool on wire racks."
+        ],
+        "Tags": [
+            "dessert",
+            "cookies",
+            "sweet"
+        ],
+        "TimeEstimate": 25,
+        "SDXLPrompt": "A plate of classic chocolate chip cookies, crispy on the edges and chewy in the middle."
+    },
+    {
+        "Name": "Quinoa Salad",
+        "Description": "A healthy quinoa salad with fresh vegetables and a light lemon vinaigrette.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Quinoa"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cups",
+                "Name": "Water"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Cucumber"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Cherry tomatoes"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Bell peppers"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Lemon juice"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Rinse quinoa and cook in water until tender.",
+            "Chop cucumber, cherry tomatoes, and bell peppers.",
+            "In a large bowl, combine quinoa and vegetables.",
+            "Whisk together lemon juice, olive oil, salt, and pepper.",
+            "Pour dressing over salad and toss to coat.",
+            "Serve chilled."
+        ],
+        "Tags": [
+            "lunch",
+            "salad",
+            "healthy"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A colorful quinoa salad with fresh vegetables and a light lemon vinaigrette."
+    },
+    {
+        "Name": "Baked Macaroni and Cheese",
+        "Description": "A creamy and cheesy baked macaroni perfect for comfort food lovers.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "grams",
+                "Name": "Macaroni"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cups",
+                "Name": "Cheddar cheese"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cups",
+                "Name": "Milk"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Butter"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Flour"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Breadcrumbs"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 180°C.",
+            "Cook macaroni according to package instructions.",
+            "Melt butter in a saucepan and stir in flour.",
+            "Gradually whisk in milk until smooth.",
+            "Add cheese, salt, and pepper, stirring until melted.",
+            "Combine cheese sauce with macaroni and transfer to a baking dish.",
+            "Sprinkle breadcrumbs on top.",
+            "Bake for 20 minutes until golden and bubbly.",
+            "Serve hot."
+        ],
+        "Tags": [
+            "dinner",
+            "pasta",
+            "comfort food"
+        ],
+        "TimeEstimate": 40,
+        "SDXLPrompt": "A dish of baked macaroni and cheese, golden and bubbly on top."
+    },
+    {
+        "Name": "Greek Yogurt Parfait",
+        "Description": "A delicious and healthy parfait with Greek yogurt, granola, and fresh berries.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Greek yogurt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Granola"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Mixed berries"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Honey"
+            }
+        ],
+        "Instructions": [
+            "Layer Greek yogurt, granola, and mixed berries in a glass.",
+            "Drizzle honey on top.",
+            "Repeat layers until the glass is full.",
+            "Serve immediately."
+        ],
+        "Tags": [
+            "breakfast",
+            "healthy",
+            "dessert"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A glass filled with layers of Greek yogurt, granola, and fresh berries, drizzled with honey."
+    },
+    {
+        "Name": "Spaghetti Carbonara",
+        "Description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "grams",
+                "Name": "Spaghetti"
+            },
+            {
+                "Amount": "100",
+                "Unit": "grams",
+                "Name": "Pancetta"
+            },
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Eggs"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Parmesan cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Cook spaghetti according to package instructions.",
+            "Fry pancetta until crispy.",
+            "Beat eggs and mix with grated Parmesan cheese.",
+            "Drain pasta and return to pot.",
+            "Quickly mix in egg and cheese mixture with pasta.",
+            "Add pancetta, salt, and pepper.",
+            "Serve immediately with extra cheese."
+        ],
+        "Tags": [
+            "dinner",
+            "pasta",
+            "italian"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A plate of classic spaghetti carbonara, with pancetta and a creamy cheese sauce."
+    },
+    {
+        "Name": "Avocado Toast",
+        "Description": "A simple and nutritious breakfast of mashed avocado on toasted bread.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "slices",
+                "Name": "Bread"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Avocado"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Lemon juice"
+            }
+        ],
+        "Instructions": [
+            "Toast the bread slices until golden.",
+            "Mash the avocado with a fork.",
+            "Spread the mashed avocado on the toasted bread.",
+            "Sprinkle with salt, pepper, and lemon juice.",
+            "Serve immediately."
+        ],
+        "Tags": [
+            "breakfast",
+            "healthy",
+            "vegetarian"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A plate with slices of toasted bread topped with mashed avocado, sprinkled with salt and pepper."
+    },
+    {
+        "Name": "Chicken Caesar Salad",
+        "Description": "A classic Caesar salad with grilled chicken, crispy croutons, and Parmesan cheese.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Chicken breasts"
+            },
+            {
+                "Amount": "4",
+                "Unit": "cups",
+                "Name": "Romaine lettuce"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Croutons"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Parmesan cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Caesar dressing"
+            }
+        ],
+        "Instructions": [
+            "Grill the chicken breasts until fully cooked.",
+            "Chop the romaine lettuce and place in a large bowl.",
+            "Slice the grilled chicken and add to the lettuce.",
+            "Add croutons and grated Parmesan cheese.",
+            "Drizzle with Caesar dressing and toss to combine.",
+            "Serve immediately."
+        ],
+        "Tags": [
+            "lunch",
+            "salad",
+            "chicken"
+        ],
+        "TimeEstimate": 25,
+        "SDXLPrompt": "A bowl of Caesar salad with grilled chicken, croutons, and Parmesan cheese."
+    },
+    {
+        "Name": "Tomato Basil Soup",
+        "Description": "A comforting tomato soup with fresh basil, perfect for a cozy meal.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "kilogram",
+                "Name": "Tomatoes"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Vegetable broth"
+            },
+            {
+                "Amount": "1",
+                "Unit": "onion",
+                "Name": "Onion"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Heavy cream"
+            },
+            {
+                "Amount": "1",
+                "Unit": "handful",
+                "Name": "Basil leaves"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Sauté onions and garlic in olive oil until soft.",
+            "Add chopped tomatoes and cook until tender.",
+            "Pour in vegetable broth and bring to a boil.",
+            "Reduce heat and add heavy cream.",
+            "Simmer for 10 minutes, then blend until smooth.",
+            "Stir in fresh basil leaves.",
+            "Season with salt and pepper to taste.",
+            "Serve hot."
+        ],
+        "Tags": [
+            "dinner",
+            "soup",
+            "vegetarian"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "A bowl of comforting tomato basil soup, garnished with fresh basil leaves."
+    },
+    {
+        "Name": "Garlic Parmesan Roasted Potatoes",
+        "Description": "Crispy roasted potatoes with a garlic and Parmesan coating.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "grams",
+                "Name": "Potatoes"
+            },
+            {
+                "Amount": "3",
+                "Unit": "cloves",
+                "Name": "Garlic"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Parmesan cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 200°C.",
+            "Cut potatoes into small wedges.",
+            "Toss potatoes with olive oil, minced garlic, salt, and pepper.",
+            "Spread on a baking sheet and roast for 25 minutes.",
+            "Sprinkle with grated Parmesan cheese and roast for another 5 minutes.",
+            "Serve hot."
+        ],
+        "Tags": [
+            "side dish",
+            "vegetarian",
+            "comfort food"
+        ],
+        "TimeEstimate": 35,
+        "SDXLPrompt": "A plate of crispy roasted potatoes with garlic and Parmesan coating."
+    },
+    {
+        "Name": "Peanut Butter Banana Smoothie",
+        "Description": "A creamy and nutritious smoothie with peanut butter and banana.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Bananas"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Peanut butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Ice cubes"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Honey"
+            }
+        ],
+        "Instructions": [
+            "Place bananas, peanut butter, milk, ice cubes, and honey in a blender.",
+            "Blend until smooth.",
+            "Pour into glasses and serve immediately."
+        ],
+        "Tags": [
+            "breakfast",
+            "smoothie",
+            "healthy"
+        ],
+        "TimeEstimate": 5,
+        "SDXLPrompt": "A glass of creamy peanut butter banana smoothie, ready to be enjoyed."
+    },
+    {
+        "Name": "Caprese Salad",
+        "Description": "A simple and refreshing salad with tomatoes, mozzarella, and basil.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "Tomatoes"
+            },
+            {
+                "Amount": "200",
+                "Unit": "grams",
+                "Name": "Mozzarella cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "handful",
+                "Name": "Basil leaves"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Balsamic vinegar"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Slice tomatoes and mozzarella cheese.",
+            "Arrange tomatoes, mozzarella, and basil leaves on a plate.",
+            "Drizzle with olive oil and balsamic vinegar.",
+            "Season with salt and pepper.",
+            "Serve immediately."
+        ],
+        "Tags": [
+            "lunch",
+            "salad",
+            "vegetarian"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A plate of Caprese salad with tomatoes, mozzarella, and basil, drizzled with olive oil and balsamic vinegar."
+    },
+    {
+        "Name": "Chili Con Carne",
+        "Description": "A hearty and spicy chili with ground beef, beans, and tomatoes.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "grams",
+                "Name": "Ground beef"
+            },
+            {
+                "Amount": "1",
+                "Unit": "can",
+                "Name": "Kidney beans"
+            },
+            {
+                "Amount": "1",
+                "Unit": "can",
+                "Name": "Tomatoes"
+            },
+            {
+                "Amount": "1",
+                "Unit": "onion",
+                "Name": "Onion"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Chili powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Black pepper"
+            }
+        ],
+        "Instructions": [
+            "Sauté onions and garlic in a large pot until soft.",
+            "Add ground beef and cook until browned.",
+            "Stir in chili powder, salt, and pepper.",
+            "Add kidney beans and tomatoes.",
+            "Simmer for 30 minutes, stirring occasionally.",
+            "Serve hot with rice or cornbread."
+        ],
+        "Tags": [
+            "dinner",
+            "beef",
+            "spicy"
+        ],
+        "TimeEstimate": 45,
+        "SDXLPrompt": "A bowl of hearty and spicy chili con carne with ground beef, beans, and tomatoes."
+    },
+    {
+        "Name": "Teriyaki Chicken",
+        "Description": "Juicy chicken thighs glazed with a sweet and savory teriyaki sauce.",
+        "Ingredients": [
+            {
+                "Amount": "4",
+                "Unit": "",
+                "Name": "Chicken thighs"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Soy sauce"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Mirin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Sugar"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Sesame oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Cornstarch"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Water"
+            }
+        ],
+        "Instructions": [
+            "Mix soy sauce, mirin, and sugar in a bowl.",
+            "Marinate chicken thighs in the sauce for 30 minutes.",
+            "Heat sesame oil in a pan and cook chicken until browned.",
+            "Add remaining marinade and cook until thickened.",
+            "Dissolve cornstarch in water and stir into the sauce.",
+            "Cook until sauce is glossy and chicken is fully cooked.",
+            "Serve with steamed rice and vegetables."
+        ],
+        "Tags": [
+            "dinner",
+            "chicken",
+            "asian"
+        ],
+        "TimeEstimate": 50,
+        "SDXLPrompt": "A plate of juicy teriyaki chicken thighs, glazed with a sweet and savory sauce."
+    },
+    {
+        "Name": "Pancakes",
+        "Description": "Fluffy and golden pancakes perfect for breakfast or brunch.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Flour"
+            },
+            {
+                "Amount": "1",
+                "Unit": "cup",
+                "Name": "Milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "Egg"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tablespoons",
+                "Name": "Sugar"
+            },
+            {
+                "Amount": "1",
+                "Unit": "teaspoon",
+                "Name": "Baking powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tablespoon",
+                "Name": "Butter"
+            }
+        ],
+        "Instructions": [
+            "Mix flour, sugar, baking powder, and salt in a bowl.",
+            "Whisk milk and egg together, then add to the dry ingredients.",
+            "Stir until combined, then fold in melted butter.",
+            "Heat a non-stick pan and pour batter to form pancakes.",
+            "Cook until bubbles form, then flip and cook until golden.",
+            "Serve hot with syrup and butter."
+        ],
+        "Tags": [
+            "breakfast",
+            "brunch",
+            "sweet"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A stack of fluffy and golden pancakes, ready to be topped with syrup and butter."
+    },
+    {
+        "Name": "Berry Quinoa Breakfast Bowl",
+        "Description": "A nutritious breakfast bowl with quinoa and mixed berries.",
+        "Ingredients": [
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "quinoa"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "almond milk"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "mixed berries"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "banana"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tbsp",
+                "Name": "honey"
+            }
+        ],
+        "Instructions": [
+            "Rinse quinoa under cold water.",
+            "Cook quinoa with almond milk in a pot over medium heat.",
+            "Simmer for 15 minutes until quinoa is cooked.",
+            "Top with mixed berries, banana slices, and honey."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A bowl of cooked quinoa topped with mixed berries, banana slices, and honey."
+    },
+    {
+        "Name": "Avocado Toast with Poached Egg",
+        "Description": "A simple yet delicious avocado toast topped with a poached egg.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "slices",
+                "Name": "whole grain bread"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "avocado"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "egg"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "lemon juice"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Toast the bread slices.",
+            "Mash the avocado and mix with lemon juice, salt, and pepper.",
+            "Spread avocado mixture on toast.",
+            "Poach the egg and place it on top of the avocado toast."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "Two slices of whole grain toast topped with mashed avocado and a poached egg."
+    },
+    {
+        "Name": "Greek Yogurt Parfait",
+        "Description": "A refreshing parfait with Greek yogurt, granola, and fresh fruits.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Greek yogurt"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "granola"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "mixed berries"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "honey"
+            }
+        ],
+        "Instructions": [
+            "Layer Greek yogurt in a glass.",
+            "Add granola and mixed berries in layers.",
+            "Drizzle honey on top."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A glass parfait with layers of Greek yogurt, granola, mixed berries, and honey."
+    },
+    {
+        "Name": "Spinach and Feta Omelette",
+        "Description": "A fluffy omelette with spinach and feta cheese.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "eggs"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "spinach"
+            },
+            {
+                "Amount": "30",
+                "Unit": "g",
+                "Name": "feta cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Beat the eggs with salt and pepper.",
+            "Heat olive oil in a pan.",
+            "Add spinach and cook until wilted.",
+            "Pour eggs over spinach and cook until set.",
+            "Sprinkle feta cheese on top before folding the omelette."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "A golden omelette filled with wilted spinach and crumbled feta cheese."
+    },
+    {
+        "Name": "Banana Oat Pancakes",
+        "Description": "Healthy and fluffy pancakes made with bananas and oats.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "bananas"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "oats"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "egg"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "baking powder"
+            }
+        ],
+        "Instructions": [
+            "Blend bananas, oats, milk, egg, and baking powder until smooth.",
+            "Heat a non-stick pan over medium heat.",
+            "Pour batter into the pan to form pancakes.",
+            "Cook until bubbles form, then flip and cook until golden."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A stack of golden banana oat pancakes served with syrup."
+    },
+    {
+        "Name": "Smoked Salmon Bagel",
+        "Description": "A classic bagel topped with smoked salmon, cream cheese, and capers.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "bagel"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "smoked salmon"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "cream cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "capers"
+            },
+            {
+                "Amount": "1",
+                "Unit": "slice",
+                "Name": "red onion"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "dill"
+            }
+        ],
+        "Instructions": [
+            "Slice and toast the bagel.",
+            "Spread cream cheese on each half.",
+            "Top with smoked salmon, capers, red onion, and dill."
+        ],
+        "Tags": [
+            "breakfast",
+            "fish"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A toasted bagel topped with cream cheese, smoked salmon, capers, red onion, and dill."
+    },
+    {
+        "Name": "Chia Seed Pudding",
+        "Description": "A creamy pudding made with chia seeds and almond milk.",
+        "Ingredients": [
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "chia seeds"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "almond milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "maple syrup"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "vanilla extract"
+            }
+        ],
+        "Instructions": [
+            "Mix chia seeds, almond milk, maple syrup, and vanilla extract.",
+            "Refrigerate for at least 2 hours or overnight.",
+            "Stir before serving."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian",
+            "vegan"
+        ],
+        "TimeEstimate": 130,
+        "SDXLPrompt": "A bowl of creamy chia seed pudding garnished with fresh fruits."
+    },
+    {
+        "Name": "Egg and Cheese Breakfast Burrito",
+        "Description": "A hearty breakfast burrito filled with scrambled eggs, cheese, and vegetables.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "eggs"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "cheddar cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "tortilla"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "bell pepper"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Beat the eggs with salt and pepper.",
+            "Heat olive oil in a pan and cook scrambled eggs.",
+            "Add chopped bell pepper and cheese to the eggs.",
+            "Warm the tortilla and fill it with the egg mixture.",
+            "Roll up the burrito and serve."
+        ],
+        "Tags": [
+            "breakfast"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "A breakfast burrito filled with scrambled eggs, cheddar cheese, and bell peppers."
+    },
+    {
+        "Name": "Blueberry Muffins",
+        "Description": "Delicious homemade muffins packed with fresh blueberries.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "flour"
+            },
+            {
+                "Amount": "150",
+                "Unit": "g",
+                "Name": "sugar"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "butter"
+            },
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "blueberries"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "baking powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "egg"
+            },
+            {
+                "Amount": "100",
+                "Unit": "ml",
+                "Name": "milk"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 180°C.",
+            "Mix flour, sugar, and baking powder.",
+            "Add melted butter, egg, and milk to the mixture.",
+            "Fold in the blueberries.",
+            "Pour batter into muffin tins and bake for 20 minutes."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Freshly baked blueberry muffins on a plate."
+    },
+    {
+        "Name": "Tomato Basil Bruschetta",
+        "Description": "A tasty Italian-inspired breakfast with tomato and basil on toasted bread.",
+        "Ingredients": [
+            {
+                "Amount": "4",
+                "Unit": "slices",
+                "Name": "baguette"
+            },
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "cherry tomatoes"
+            },
+            {
+                "Amount": "10",
+                "Unit": "leaves",
+                "Name": "basil"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "clove",
+                "Name": "garlic"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Toast the baguette slices.",
+            "Chop cherry tomatoes and basil.",
+            "Rub garlic on the toasted bread.",
+            "Top with tomatoes, basil, olive oil, salt, and pepper."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "Toasted baguette slices topped with chopped cherry tomatoes and basil."
+    },
+    {
+        "Name": "Peanut Butter Banana Smoothie",
+        "Description": "A creamy and delicious smoothie made with peanut butter and bananas.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "bananas"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tbsp",
+                "Name": "peanut butter"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "honey"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "vanilla extract"
+            }
+        ],
+        "Instructions": [
+            "Blend bananas, peanut butter, milk, honey, and vanilla extract until smooth.",
+            "Pour into glasses and serve."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 5,
+        "SDXLPrompt": "A creamy peanut butter banana smoothie in a glass."
+    },
+    {
+        "Name": "Breakfast Quesadilla",
+        "Description": "A crispy quesadilla filled with eggs, cheese, and vegetables.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "eggs"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "cheddar cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "tortilla"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "tomato"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "green onion"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Beat the eggs with salt and pepper.",
+            "Cook scrambled eggs in a pan with butter.",
+            "Chop tomato and green onion.",
+            "Place eggs, cheese, tomato, and green onion on one half of the tortilla.",
+            "Fold the tortilla and cook in a pan until crispy."
+        ],
+        "Tags": [
+            "breakfast"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "A crispy breakfast quesadilla filled with scrambled eggs, cheddar cheese, tomato, and green onion."
+    },
+    {
+        "Name": "Veggie Breakfast Sandwich",
+        "Description": "A wholesome sandwich filled with fresh vegetables and a fried egg.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "slices",
+                "Name": "whole grain bread"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "egg"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "spinach"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "tomato"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "avocado"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Toast the bread slices.",
+            "Fry the egg in olive oil with salt and pepper.",
+            "Slice the tomato and avocado.",
+            "Layer spinach, tomato, avocado, and fried egg on one slice of bread.",
+            "Top with the other slice of bread and serve."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A hearty breakfast sandwich with spinach, tomato, avocado, and a fried egg."
+    },
+    {
+        "Name": "Apple Cinnamon Overnight Oats",
+        "Description": "Overnight oats with a delightful apple and cinnamon flavor.",
+        "Ingredients": [
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "oats"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "apple"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "cinnamon"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "honey"
+            }
+        ],
+        "Instructions": [
+            "Mix oats, milk, cinnamon, and honey in a jar.",
+            "Grate the apple and add it to the mixture.",
+            "Refrigerate overnight.",
+            "Stir before serving."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian",
+            "vegan"
+        ],
+        "TimeEstimate": 5,
+        "SDXLPrompt": "A jar of overnight oats with grated apple and cinnamon."
+    },
+    {
+        "Name": "Breakfast Pizza",
+        "Description": "A fun breakfast pizza with scrambled eggs, cheese, and bacon.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "pizza base"
+            },
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "eggs"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "cheddar cheese"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "bacon"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 200°C.",
+            "Cook scrambled eggs with olive oil, salt, and pepper.",
+            "Cook bacon until crispy.",
+            "Top pizza base with scrambled eggs, cheese, and bacon.",
+            "Bake for 10 minutes until cheese is melted."
+        ],
+        "Tags": [
+            "breakfast",
+            "red meat"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A breakfast pizza topped with scrambled eggs, cheddar cheese, and crispy bacon."
+    },
+    {
+        "Name": "Coconut Mango Smoothie Bowl",
+        "Description": "A tropical smoothie bowl with coconut and mango.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "mango"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "coconut milk"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "granola"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "chia seeds"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "banana"
+            }
+        ],
+        "Instructions": [
+            "Blend mango, coconut milk, and banana until smooth.",
+            "Pour into a bowl and top with granola and chia seeds."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian",
+            "vegan"
+        ],
+        "TimeEstimate": 5,
+        "SDXLPrompt": "A tropical smoothie bowl topped with granola and chia seeds."
+    },
+    {
+        "Name": "Turkey Sausage Breakfast Wrap",
+        "Description": "A healthy breakfast wrap with turkey sausage and vegetables.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "tortilla"
+            },
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "turkey sausages"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "spinach"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "tomato"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "hummus"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Cook turkey sausages according to package instructions.",
+            "Warm the tortilla and spread hummus on it.",
+            "Add spinach, chopped tomato, and turkey sausages.",
+            "Season with salt and pepper, then roll up the wrap."
+        ],
+        "Tags": [
+            "breakfast",
+            "chicken"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A breakfast wrap filled with turkey sausage, spinach, tomato, and hummus."
+    },
+    {
+        "Name": "Sweet Potato Hash",
+        "Description": "A delicious hash made with sweet potatoes, bell peppers, and onions.",
+        "Ingredients": [
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "sweet potatoes"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "bell pepper"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "onion"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Peel and dice the sweet potatoes.",
+            "Chop the bell pepper and onion.",
+            "Heat olive oil in a pan and cook the vegetables until tender.",
+            "Season with paprika, salt, and pepper."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian",
+            "vegan"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "A plate of sweet potato hash with bell peppers and onions."
+    },
+    {
+        "Name": "Ham and Cheese Croissant",
+        "Description": "A warm croissant filled with ham and melted cheese.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "croissant"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "ham"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "cheddar cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "butter"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 180°C.",
+            "Slice the croissant in half and spread butter on each side.",
+            "Place ham and cheese inside the croissant.",
+            "Bake for 10 minutes until cheese is melted."
+        ],
+        "Tags": [
+            "breakfast",
+            "red meat"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "A warm croissant filled with ham and melted cheddar cheese."
+    },
+    {
+        "Name": "Pumpkin Spice Latte Oatmeal",
+        "Description": "Creamy oatmeal with the flavors of a pumpkin spice latte.",
+        "Ingredients": [
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "oats"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "milk"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "pumpkin puree"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "pumpkin spice"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "maple syrup"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            }
+        ],
+        "Instructions": [
+            "Cook oats with milk in a pot over medium heat.",
+            "Add pumpkin puree, pumpkin spice, maple syrup, and salt.",
+            "Simmer until thick and creamy."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian",
+            "vegan"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "A bowl of creamy pumpkin spice latte flavored oatmeal."
+    },
+    {
+        "Name": "Egg Muffins",
+        "Description": "Mini frittatas made with eggs, cheese, and vegetables.",
+        "Ingredients": [
+            {
+                "Amount": "4",
+                "Unit": "",
+                "Name": "eggs"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "cheddar cheese"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "bell pepper"
+            },
+            {
+                "Amount": "1",
+                "Unit": "",
+                "Name": "green onion"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "black pepper"
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 180°C.",
+            "Beat the eggs with salt and pepper.",
+            "Chop bell pepper and green onion.",
+            "Mix eggs, vegetables, and cheese.",
+            "Pour mixture into muffin tins and bake for 20 minutes."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Mini egg muffins with cheese and vegetables."
+    },
+    {
+        "Name": "Strawberry Banana Smoothie",
+        "Description": "A refreshing smoothie made with strawberries and bananas.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "strawberries"
+            },
+            {
+                "Amount": "2",
+                "Unit": "",
+                "Name": "bananas"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "honey"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "vanilla extract"
+            }
+        ],
+        "Instructions": [
+            "Blend strawberries, bananas, milk, honey, and vanilla extract until smooth.",
+            "Pour into glasses and serve."
+        ],
+        "Tags": [
+            "breakfast",
+            "vegetarian"
+        ],
+        "TimeEstimate": 5,
+        "SDXLPrompt": "A refreshing strawberry banana smoothie in a glass."
+    },
+    {
+        "Name": "Cactus Fruit Salad",
+        "Description": "A refreshing salad featuring the exotic flavors of prickly pear and desert fruits.",
+        "Ingredients": [
+            {
+                "Amount": "300",
+                "Unit": "g",
+                "Name": "Prickly pear fruit, peeled and diced"
+            },
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Watermelon, diced"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Cantaloupe, diced"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Mint leaves, chopped"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Lime juice"
+            },
+            {
+                "Amount": "20",
+                "Unit": "g",
+                "Name": "Honey"
+            }
+        ],
+        "Instructions": [
+            "In a large bowl, combine the diced prickly pear, watermelon, and cantaloupe.",
+            "Add chopped mint leaves, lime juice, and honey. Toss gently to combine.",
+            "Refrigerate for at least 30 minutes before serving to allow flavors to meld."
+        ],
+        "Tags": [
+            "Breakfast",
+            "Healthy"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "Create a desert fruit salad featuring prickly pear, watermelon, and cantaloupe, tossed with mint, lime juice, and honey."
+    },
+    {
+        "Name": "Sahara Desert Chickpea Stew",
+        "Description": "A hearty stew inspired by North African flavors, perfect for a chilly desert evening.",
+        "Ingredients": [
+            {
+                "Amount": "250",
+                "Unit": "g",
+                "Name": "Chickpeas, cooked"
+            },
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Tomatoes, chopped"
+            },
+            {
+                "Amount": "150",
+                "Unit": "g",
+                "Name": "Carrots, diced"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Red bell pepper, sliced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Onion, diced"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic, minced"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "500",
+                "Unit": "ml",
+                "Name": "Vegetable broth"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Cumin powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Turmeric"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Harissa paste"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "In a large pot, heat olive oil over medium heat. Add diced onion and minced garlic, sauté until translucent.",
+            "Add diced carrots and sliced red bell pepper. Cook for 5 minutes until slightly softened.",
+            "Stir in cumin powder, paprika, turmeric, and harissa paste. Cook for another minute until fragrant.",
+            "Add chopped tomatoes, cooked chickpeas, and vegetable broth. Season with salt and pepper.",
+            "Simmer over low heat for 20 minutes, or until vegetables are tender and flavors are well combined.",
+            "Adjust seasoning if needed. Serve hot."
+        ],
+        "Tags": [
+            "Dinner",
+            "Vegetarian"
+        ],
+        "TimeEstimate": 45,
+        "SDXLPrompt": "Prepare a hearty chickpea stew with North African spices, featuring tomatoes, carrots, and red bell pepper in a savory broth."
+    },
+    {
+        "Name": "Desert Date Smoothie",
+        "Description": "A sweet and creamy smoothie featuring dates, perfect for a quick breakfast or snack.",
+        "Ingredients": [
+            {
+                "Amount": "150",
+                "Unit": "g",
+                "Name": "Dates, pitted and chopped"
+            },
+            {
+                "Amount": "250",
+                "Unit": "ml",
+                "Name": "Almond milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Banana, peeled and sliced"
+            },
+            {
+                "Amount": "30",
+                "Unit": "g",
+                "Name": "Almond butter"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Vanilla extract"
+            },
+            {
+                "Amount": "Ice cubes",
+                "Unit": "as needed",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "In a blender, combine chopped dates, almond milk, sliced banana, almond butter, and vanilla extract.",
+            "Blend until smooth and creamy. Add ice cubes if desired for a colder texture.",
+            "Pour into glasses and serve immediately."
+        ],
+        "Tags": [
+            "Breakfast",
+            "Vegan"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "Blend a sweet smoothie with dates, almond milk, banana, almond butter, and vanilla extract for a quick breakfast option."
+    },
+    {
+        "Name": "Spiced Quinoa Salad with Roasted Vegetables",
+        "Description": "A nutritious salad featuring hearty quinoa and roasted vegetables, spiced with Middle Eastern flavors.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Quinoa, cooked"
+            },
+            {
+                "Amount": "150",
+                "Unit": "g",
+                "Name": "Zucchini, sliced"
+            },
+            {
+                "Amount": "150",
+                "Unit": "g",
+                "Name": "Eggplant, diced"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Cherry tomatoes, halved"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Red onion, thinly sliced"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Cumin powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Coriander powder"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Smoked paprika"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Feta cheese, crumbled"
+            },
+            {
+                "Amount": "30",
+                "Unit": "g",
+                "Name": "Fresh parsley, chopped"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 200°C (400°F).",
+            "In a bowl, toss sliced zucchini, diced eggplant, halved cherry tomatoes, and thinly sliced red onion with olive oil, cumin powder, coriander powder, and smoked paprika.",
+            "Spread vegetables on a baking sheet lined with parchment paper. Roast for 20-25 minutes, stirring halfway, until vegetables are tender and slightly caramelized.",
+            "In a large bowl, combine cooked quinoa with roasted vegetables. Season with salt and pepper.",
+            "Garnish with crumbled feta cheese and chopped fresh parsley. Serve warm or at room temperature."
+        ],
+        "Tags": [
+            "Lunch",
+            "Vegetarian"
+        ],
+        "TimeEstimate": 40,
+        "SDXLPrompt": "Create a spiced quinoa salad with roasted zucchini, eggplant, cherry tomatoes, and red onion, garnished with crumbled feta and fresh parsley."
+    },
+    {
+        "Name": "Moroccan Couscous with Apricots and Pistachios",
+        "Description": "A flavorful couscous dish inspired by Moroccan cuisine, featuring dried apricots and pistachios.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Couscous, dry"
+            },
+            {
+                "Amount": "150",
+                "Unit": "g",
+                "Name": "Dried apricots, chopped"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Pistachios, shelled and chopped"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Red bell pepper, diced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Zucchini, diced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Onion, diced"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "500",
+                "Unit": "ml",
+                "Name": "Vegetable broth"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground ginger"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "In a large pot, heat olive oil over medium heat. Add diced onion and cook until translucent.",
+            "Add diced red bell pepper and zucchini. Cook for 5 minutes until softened.",
+            "Stir in ground cinnamon, cumin, and ginger. Add vegetable broth and bring to a boil.",
+            "Remove from heat. Stir in couscous, dried apricots, and chopped pistachios. Cover and let sit for 5 minutes.",
+            "Fluff couscous with a fork. Season with salt and pepper to taste. Serve warm."
+        ],
+        "Tags": [
+            "Dinner",
+            "Vegan"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Prepare a Moroccan-inspired couscous with dried apricots, pistachios, red bell pepper, and zucchini, seasoned with cinnamon, cumin, and ginger."
+    },
+    {
+        "Name": "Sahara Spiced Roasted Chicken",
+        "Description": "A succulent roasted chicken with a blend of Sahara desert spices, perfect for a festive dinner.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "whole",
+                "Name": "Chicken, whole"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Butter, softened"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic, minced"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Ground coriander"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Ground paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground turmeric"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "Preheat oven to 200°C (400°F).",
+            "In a small bowl, combine softened butter with minced garlic, ground cumin, coriander, paprika, cinnamon, turmeric, salt, and pepper.",
+            "Rinse and pat dry the whole chicken. Rub the spiced butter mixture all over the chicken, including under the skin.",
+            "Place the chicken on a roasting pan. Drizzle with olive oil.",
+            "Roast in the preheated oven for 1 hour or until the internal temperature reaches 75°C (165°F).",
+            "Let the chicken rest for 10 minutes before carving. Serve hot."
+        ],
+        "Tags": [
+            "Dinner",
+            "Chicken"
+        ],
+        "TimeEstimate": 90,
+        "SDXLPrompt": "Roast a whole chicken seasoned with a blend of Sahara desert spices including cumin, coriander, paprika, cinnamon, and turmeric, served hot and juicy."
+    },
+    {
+        "Name": "Egyptian Lentil Soup",
+        "Description": "A comforting soup made with lentils, warming spices, and served with crispy pita chips.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Red lentils, dried"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Onion, diced"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic, minced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Carrot, diced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Celery stalk, diced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "L",
+                "Name": "Vegetable broth"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground coriander"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground turmeric"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Paprika"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "2",
+                "Unit": "pc",
+                "Name": "Pita bread, cut into wedges"
+            }
+        ],
+        "Instructions": [
+            "In a large pot, heat olive oil over medium heat. Add diced onion and minced garlic, sauté until translucent.",
+            "Add diced carrot and celery. Cook for 5 minutes until vegetables are softened.",
+            "Stir in ground cumin, coriander, turmeric, and paprika. Add red lentils and vegetable broth.",
+            "Bring to a boil, then reduce heat and simmer for 20-25 minutes until lentils are tender.",
+            "Meanwhile, preheat oven to 180°C (350°F). Arrange pita wedges on a baking sheet and bake for 8-10 minutes until crispy.",
+            "Season soup with salt and pepper to taste. Serve hot, garnished with crispy pita chips."
+        ],
+        "Tags": [
+            "Lunch",
+            "Vegan"
+        ],
+        "TimeEstimate": 45,
+        "SDXLPrompt": "Prepare a comforting Egyptian lentil soup with red lentils, warming spices, and crispy pita chips for a satisfying lunch option."
+    },
+    {
+        "Name": "Desert Quinoa Breakfast Bowl",
+        "Description": "A nutritious breakfast bowl with quinoa, topped with fresh fruits and nuts, ideal for a healthy start to your day.",
+        "Ingredients": [
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Quinoa, cooked"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Banana, sliced"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Berries (strawberries, blueberries, etc.)"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Almonds, chopped"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Dried apricots, chopped"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Honey"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Almond milk"
+            }
+        ],
+        "Instructions": [
+            "In a bowl, place cooked quinoa as the base.",
+            "Arrange sliced banana, mixed berries, chopped almonds, and dried apricots on top of the quinoa.",
+            "Drizzle with honey and almond milk.",
+            "Serve immediately as a nutritious breakfast bowl."
+        ],
+        "Tags": [
+            "Breakfast",
+            "Healthy"
+        ],
+        "TimeEstimate": 15,
+        "SDXLPrompt": "Assemble a nutritious breakfast bowl with cooked quinoa, topped with fresh fruits like banana and berries, along with almonds, dried apricots, honey, and almond milk."
+    },
+    {
+        "Name": "Spicy Moroccan Lamb Skewers",
+        "Description": "Tender lamb skewers marinated in Moroccan spices and grilled to perfection, a flavorful dish from the desert regions.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "g",
+                "Name": "Lamb leg meat, cubed"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Red onion, cut into chunks"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Red bell pepper, cut into chunks"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tbsp",
+                "Name": "Harissa paste"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground coriander"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "In a bowl, combine olive oil, harissa paste, ground cumin, coriander, paprika, cinnamon, salt, and pepper.",
+            "Add cubed lamb meat to the bowl and coat well with the marinade. Cover and refrigerate for at least 1 hour.",
+            "Preheat grill to medium-high heat. Thread marinated lamb cubes onto skewers, alternating with chunks of red onion and red bell pepper.",
+            "Grill skewers for 10-12 minutes, turning occasionally, until lamb is cooked to desired doneness and vegetables are tender and slightly charred.",
+            "Serve hot, garnished with fresh herbs if desired."
+        ],
+        "Tags": [
+            "Dinner",
+            "Lamb"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Prepare tender lamb skewers marinated in Moroccan spices, grilled to perfection with red onion and red bell pepper, served hot with a touch of desert flair."
+    },
+    {
+        "Name": "Saffron Rice with Dried Fruits",
+        "Description": "Fragrant saffron-infused rice with a mix of dried fruits, a delightful side dish inspired by Middle Eastern cuisine.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Basmati rice, dry"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Dried apricots, chopped"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Dried cranberries"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Raisins"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Saffron threads"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "Rinse basmati rice under cold water until water runs clear. Drain well.",
+            "In a small bowl, steep saffron threads in 2 tablespoons of hot water for 10 minutes.",
+            "In a pot, heat olive oil over medium heat. Add rinsed rice and sauté for 2 minutes.",
+            "Add steeped saffron water along with 300 ml of water. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes or until rice is tender and liquid is absorbed.",
+            "Stir in chopped dried apricots, dried cranberries, and raisins. Season with ground cinnamon, salt, and pepper. Fluff with a fork.",
+            "Serve hot as a fragrant and colorful side dish."
+        ],
+        "Tags": [
+            "Side Dish",
+            "Vegan"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Prepare fragrant saffron-infused rice with dried apricots, cranberries, and raisins, inspired by Middle Eastern flavors, as a delightful and colorful side dish."
+    },
+    {
+        "Name": "Date and Nut Energy Bars",
+        "Description": "Homemade energy bars packed with dates, nuts, and seeds, ideal for a quick snack or on-the-go energy boost.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Dates, pitted"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Almonds"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Walnuts"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Pumpkin seeds"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Sunflower seeds"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Chia seeds"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Honey"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Coconut oil"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Vanilla extract"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            }
+        ],
+        "Instructions": [
+            "In a food processor, combine pitted dates, almonds, walnuts, pumpkin seeds, sunflower seeds, chia seeds, honey, coconut oil, vanilla extract, and salt.",
+            "Pulse until mixture comes together and forms a sticky dough.",
+            "Press mixture into a lined baking dish and refrigerate for 1-2 hours until firm.",
+            "Cut into bars or squares. Store in an airtight container in the refrigerator for up to 1 week.",
+            "Enjoy as a quick and nutritious snack or on-the-go energy boost."
+        ],
+        "Tags": [
+            "Snack",
+            "Healthy"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Prepare homemade energy bars packed with dates, nuts, and seeds, ideal for a quick snack or on-the-go energy boost."
+    },
+    {
+        "Name": "Moroccan Mint Tea",
+        "Description": "A traditional Moroccan tea infused with mint leaves, served hot and sweetened with sugar, a refreshing beverage enjoyed throughout the desert regions.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "L",
+                "Name": "Water"
+            },
+            {
+                "Amount": "10",
+                "Unit": "g",
+                "Name": "Green tea leaves"
+            },
+            {
+                "Amount": "1",
+                "Unit": "bunch",
+                "Name": "Fresh mint leaves"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Sugar"
+            }
+        ],
+        "Instructions": [
+            "In a kettle or pot, bring water to a boil.",
+            "Add green tea leaves and fresh mint leaves to the boiling water. Remove from heat and let steep for 3-5 minutes.",
+            "Strain the tea into cups, discarding the tea leaves and mint leaves.",
+            "Stir in sugar until dissolved.",
+            "Serve hot and enjoy the refreshing Moroccan mint tea."
+        ],
+        "Tags": [
+            "Beverage",
+            "Tea"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "Prepare a traditional Moroccan mint tea infused with fresh mint leaves, served hot and sweetened with sugar, a refreshing beverage enjoyed in desert regions."
+    },
+    {
+        "Name": "Desert Spice Rubbed Grilled Vegetables",
+        "Description": "Assorted vegetables grilled with a desert-inspired spice rub, bursting with flavor and perfect for a light and healthy meal.",
+        "Ingredients": [
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Zucchini, sliced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Yellow squash, sliced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Red bell pepper, sliced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Red onion, sliced into rounds"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "2",
+                "Unit": "tsp",
+                "Name": "Ground coriander"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "Salt",
+                "Unit": "to taste",
+                "Name": ""
+            },
+            {
+                "Amount": "Pepper",
+                "Unit": "to taste",
+                "Name": ""
+            }
+        ],
+        "Instructions": [
+            "Preheat grill to medium-high heat.",
+            "In a bowl, combine olive oil, ground cumin, coriander, paprika, cinnamon, salt, and pepper.",
+            "Brush sliced zucchini, yellow squash, red bell pepper, and red onion rounds with the spice mixture.",
+            "Grill vegetables for 5-7 minutes per side, until tender and lightly charred.",
+            "Remove from grill and serve hot as a flavorful side dish or light meal."
+        ],
+        "Tags": [
+            "Lunch",
+            "Vegetarian"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "Grill assorted vegetables including zucchini, yellow squash, red bell pepper, and red onion rounds with a desert-inspired spice rub of cumin, coriander, paprika, and cinnamon, creating a burst of flavor."
+    },
+    {
+        "Name": "Chili Lime Mango Sorbet",
+        "Description": "A tangy and refreshing sorbet made with ripe mangoes, infused with chili and lime flavors, perfect for cooling off in hot desert climates.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "g",
+                "Name": "Ripe mangoes, peeled and diced"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Sugar"
+            },
+            {
+                "Amount": "100",
+                "Unit": "ml",
+                "Name": "Water"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Lime zest"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Chili powder"
+            }
+        ],
+        "Instructions": [
+            "In a saucepan, combine sugar and water. Heat over medium heat, stirring until sugar is dissolved. Remove from heat and let cool.",
+            "In a blender, puree ripe mangoes until smooth.",
+            "Stir in cooled sugar syrup, lime zest, and chili powder. Blend until well combined.",
+            "Pour mixture into a shallow dish and freeze for 2-3 hours, stirring every 30 minutes with a fork to break up ice crystals.",
+            "Once sorbet is frozen and firm, scoop into bowls and serve immediately."
+        ],
+        "Tags": [
+            "Dessert",
+            "Vegan"
+        ],
+        "TimeEstimate": 180,
+        "SDXLPrompt": "Make a tangy and refreshing chili lime mango sorbet using ripe mangoes, infused with chili powder and lime zest, perfect for cooling off in hot desert climates."
+    },
+    {
+        "Name": "Sahara Citrus Chicken Skewers",
+        "Description": "Juicy chicken skewers marinated in citrus flavors, grilled to perfection, a delightful dish inspired by Sahara desert cuisine.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "g",
+                "Name": "Chicken breast, cubed"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Orange, juiced and zested"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Lemon, juiced and zested"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "2",
+                "Unit": "cloves",
+                "Name": "Garlic, minced"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground coriander"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Pepper"
+            }
+        ],
+        "Instructions": [
+            "In a bowl, combine orange juice and zest, lemon juice and zest, olive oil, minced garlic, ground cumin, ground coriander, paprika, salt, and pepper.",
+            "Add cubed chicken breast to the bowl and coat well with the marinade. Cover and refrigerate for at least 1 hour.",
+            "Preheat grill to medium-high heat. Thread marinated chicken cubes onto skewers.",
+            "Grill skewers for 10-12 minutes, turning occasionally, until chicken is cooked through and juices run clear.",
+            "Serve hot, garnished with fresh herbs if desired."
+        ],
+        "Tags": [
+            "Dinner",
+            "Chicken"
+        ],
+        "TimeEstimate": 30,
+        "SDXLPrompt": "Prepare juicy chicken skewers marinated in citrus flavors including orange and lemon juice and zest, grilled to perfection, inspired by Sahara desert cuisine."
+    },
+    {
+        "Name": "Desert Date Smoothie",
+        "Description": "A creamy and naturally sweet smoothie made with dates, almonds, and yogurt, perfect for a quick and nutritious breakfast or snack.",
+        "Ingredients": [
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Dates, pitted and chopped"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Almonds"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "Yogurt"
+            },
+            {
+                "Amount": "150",
+                "Unit": "ml",
+                "Name": "Milk"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Vanilla extract"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Ground cardamom"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Honey"
+            }
+        ],
+        "Instructions": [
+            "In a blender, combine chopped dates, almonds, yogurt, milk, vanilla extract, ground cinnamon, ground cardamom, and honey.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately as a nutritious smoothie."
+        ],
+        "Tags": [
+            "Breakfast",
+            "Healthy"
+        ],
+        "TimeEstimate": 10,
+        "SDXLPrompt": "Blend dates, almonds, yogurt, milk, vanilla extract, cinnamon, cardamom, and honey into a creamy desert date smoothie, ideal for a quick and nutritious breakfast or snack."
+    },
+    {
+        "Name": "North African Spiced Lamb Meatballs",
+        "Description": "Flavorful lamb meatballs seasoned with North African spices, served with couscous and yogurt sauce, a hearty dish from the desert regions.",
+        "Ingredients": [
+            {
+                "Amount": "500",
+                "Unit": "g",
+                "Name": "Ground lamb"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Breadcrumbs"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pc",
+                "Name": "Egg"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Ground cumin"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Ground coriander"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cinnamon"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground paprika"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground turmeric"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Salt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Pepper"
+            },
+            {
+                "Amount": "30",
+                "Unit": "ml",
+                "Name": "Olive oil"
+            },
+            {
+                "Amount": "250",
+                "Unit": "g",
+                "Name": "Couscous, cooked"
+            },
+            {
+                "Amount": "200",
+                "Unit": "ml",
+                "Name": "Yogurt"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tbsp",
+                "Name": "Fresh mint, chopped"
+            }
+        ],
+        "Instructions": [
+            "In a large bowl, combine ground lamb, breadcrumbs, egg, ground cumin, ground coriander, ground cinnamon, ground paprika, ground turmeric, salt, and pepper. Mix well until combined.",
+            "Shape mixture into meatballs.",
+            "In a skillet, heat olive oil over medium-high heat. Add meatballs and cook until browned on all sides and cooked through, about 10 minutes.",
+            "Serve meatballs over cooked couscous, garnished with yogurt and chopped fresh mint."
+        ],
+        "Tags": [
+            "Dinner",
+            "Lamb"
+        ],
+        "TimeEstimate": 40,
+        "SDXLPrompt": "Prepare flavorful lamb meatballs seasoned with North African spices including cumin, coriander, cinnamon, paprika, and turmeric, served with couscous and yogurt sauce, a hearty dish from the desert regions."
+    },
+    {
+        "Name": "Cardamom Date Bliss Balls",
+        "Description": "Delicious and nutritious bliss balls made with dates, almonds, and cardamom, perfect for a quick energy boost or healthy snack.",
+        "Ingredients": [
+            {
+                "Amount": "200",
+                "Unit": "g",
+                "Name": "Dates, pitted"
+            },
+            {
+                "Amount": "100",
+                "Unit": "g",
+                "Name": "Almonds"
+            },
+            {
+                "Amount": "50",
+                "Unit": "g",
+                "Name": "Shredded coconut"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Ground cardamom"
+            },
+            {
+                "Amount": "1",
+                "Unit": "tsp",
+                "Name": "Vanilla extract"
+            },
+            {
+                "Amount": "1",
+                "Unit": "pinch",
+                "Name": "Salt"
+            }
+        ],
+        "Instructions": [
+            "In a food processor, combine pitted dates, almonds, shredded coconut, ground cardamom, vanilla extract, and salt.",
+            "Process until mixture forms a sticky dough.",
+            "Roll mixture into small balls.",
+            "Optional: Roll balls in additional shredded coconut or ground cardamom for coating.",
+            "Refrigerate for at least 1 hour to set.",
+            "Serve chilled as a delicious and nutritious snack."
+        ],
+        "Tags": [
+            "Snack",
+            "Healthy"
+        ],
+        "TimeEstimate": 20,
+        "SDXLPrompt": "Create delicious and nutritious bliss balls with dates, almonds, shredded coconut, cardamom, and vanilla extract, perfect for a quick energy boost or healthy snack."
+    }
+]

@@ -1,0 +1,16 @@
+Create twenty RANDOM RANDOM RANDOM RANDOM $TYPE recipes. !  !! !!!!!
+
+The output must be in JSON.
+All units of measurements must be in metric.
+Units of measurements may only be real metric units.
+Normalize ALL measurements. teaspoon -> tsp, tablespoon -> tbsp, cup -> ml, etc.
+
+Required fields are as follows:
+
+Name: String.
+Description: String.
+Ingredients: Array of { Amount: String, Unit: String, Name: String}.
+Instructions: Array of Strings.
+Tags such as breakfast or type of meat (Red, Chicken, Fish).
+TimeEstimate: Number of minutes.
+SDXLPrompt: "String for a Stable Diffusion model to generate the recipe"
