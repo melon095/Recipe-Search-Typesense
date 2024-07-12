@@ -6,7 +6,7 @@ import { slugIt } from "@/lib/utils/slug";
 import path from "path";
 import { z } from "zod";
 import { faker } from "@faker-js/faker";
-import { buckets, buildFQDN, uploadS3 } from "@/lib/s3/index";
+import { buckets, uploadS3 } from "@/lib/s3/index";
 
 function createAuthor() {
 	return {
