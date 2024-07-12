@@ -2,19 +2,21 @@ import * as Minio from "minio";
 import path from "path";
 
 const metadata = {
-  "Content-Type": "image/png",
+	"Content-Type": "image/png",
 };
 
+const { url, port, useSSL } = parse(process.env.MINIO_ENDPOINT);
+
 export const minioClient = new Minio.Client({
-  endPoint: process.env.MINIO_ENDPOINT,
-  port: parseInt(process.env.MINIO_PORT),
-  accessKey: process.env.MINIO_ACCESS_KEY,
-  secretKey: process.env.MINIO_SECRET_KEY,
-  useSSL: false,
+	endPoint: url.hostname,
+	port,
+	accessKey: process.env.MINIO_ACCESS_KEY,
+	secretKey: process.env.MINIO_SECRET_KEY,
+	useSSL,
 });
 
 export const buckets = {
-  recipePhotos: "recipe-search-typesense",
+	recipePhotos: "recipe-search-typesense",
 };
 
 /**
@@ -22,30 +24,46 @@ export const buckets = {
  * @param filePath - Path to file to upload
  */
 export const uploadS3 = async (prefixPath: string, filePath: string) => {
-  const fileName = path.basename(filePath);
+	const fileName = path.basename(filePath);
 
-  try {
-    await minioClient.fPutObject(
-      buckets.recipePhotos,
-      `${prefixPath}/${fileName}`,
-      filePath,
-      metadata
-    );
-  } catch (error) {
-    console.error("Failed to upload file to Minio", error);
+	try {
+		await minioClient.fPutObject(
+			buckets.recipePhotos,
+			`${prefixPath}/${fileName}`,
+			filePath,
+			metadata
+		);
+	} catch (error) {
+		console.error("Failed to upload file to Minio", error);
 
-    return false;
-  }
+		return false;
+	}
 
-  return buildFQDN(buckets.recipePhotos, `${prefixPath}/${fileName}`);
+	return buildFQDN(buckets.recipePhotos, `${prefixPath}/${fileName}`);
 };
 
 const buildFQDN = (bucket: string, path: string) => {
-  const url = new URL(`http://${process.env.MINIO_ENDPOINT}`);
+	const _url = new URL(url);
 
-  if (process.env.MINIO_PORT) url.port = process.env.MINIO_PORT;
+	if (useSSL) _url.protocol = "https:";
 
-  url.pathname = `${bucket}/${path}`;
+	if (process.env.MINIO_PORT) _url.port = process.env.MINIO_PORT;
 
-  return url.toString();
+	_url.pathname = `${bucket}/${path}`;
+
+	return _url.toString();
 };
+
+function parse(endpoint: string) {
+	const asUrl = new URL(endpoint);
+	const useSSL = asUrl.protocol === "https:";
+	const port = process.env.MINIO_PORT
+		? parseInt(process.env.MINIO_PORT)
+		: undefined;
+
+	return {
+		url: asUrl,
+		port,
+		useSSL,
+	};
+}
